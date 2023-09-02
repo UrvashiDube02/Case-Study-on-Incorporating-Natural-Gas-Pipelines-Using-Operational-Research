@@ -1,4 +1,4 @@
-# Case-Study-on-Incorporating-Natural-Gas-Pipelines-Using-Operational-Research
+# Case-Study-on-Incorporating Operational Research to plan Natural Gas Pipelines
 
 **Background**
 
